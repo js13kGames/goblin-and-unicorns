@@ -1,4 +1,7 @@
 ---
+genres:
+  - tabletop
+  - strategy
 directors_cut: https://alexswan.io/js13k-2026
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
